@@ -5,4 +5,5 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_root = "github.com/pgworm/katana_test_1"
+  import_root = "https://github.com/pgworm/katana_test_1/blob/master/.deepsource.toml"
+  dependencies_vendored = true
